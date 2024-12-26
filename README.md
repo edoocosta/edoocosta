@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @edoocosta
-- 👀 I’m interested in learning some program languages. 
-- 🌱 I’m currently learning Python and data science
-- 💞️ I’m looking to collaborate on ...
+- 👋🏾 Hi, I’m Analytics Engineer
 - 📫 How to reach me mcosta.eduardo@gmail.com
 
 <!---
